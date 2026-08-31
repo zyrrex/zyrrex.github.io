@@ -1,10 +1,4 @@
 ---
 layout: home
-title: Carlos Rimachi
+title: Zyrrex
 ---
-
-## Descripcion
-
-![Carlos Rimachi](/assets/images/me/me.png)
-
-Halo, veamos que despliego y que notas tengo.
