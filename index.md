@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Mi Blog
+title: Carlos Rimachi
 ---
 
-# Carlos Rimachi
+## Descripcion
 
 Halo, veamos que despliego y que notas tengo.
