@@ -1,8 +1,7 @@
 ---
 layout: home
+title: "Acerca de"
 ---
-
-## Acerca de
 
 ![Zyrrex](/assets/images/me/me.png)
 
