@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer post"
+title: "Effective golang"
 date: 2026-08-30
 ---
 
