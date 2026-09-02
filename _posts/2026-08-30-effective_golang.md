@@ -4,7 +4,7 @@ title: "Effective golang"
 date: 2026-08-30
 ---
 
-![Golang fuck you](/assets/images/posts/golang/golang_meme.jpg)
+![Golang fuck you](/assets/images/posts/headers/golang_fuck.png)
 
 Bueno, aprendiendo golang, este es mi base de recursos:
 
@@ -27,10 +27,10 @@ func main(){
 }
 ```
 
-### Variables y constantes 
+### Variables y constantes
 
 ```go
-// Declaración y asignación 
+// Declaración y asignación
 var x int
 x = 16
 
@@ -62,12 +62,12 @@ const (
 
 ### Operadores
 
-- Aritméticos: (+, -, *, /, %)
-- Relacionales: (&&, ||)
+- Aritméticos: (`+`, `-`, `*`, `/`, `%`)
+- Relacionales: (`&&`, `||`)
 - Lógicos:
 
 ## Sentencias de control
- 
+
 ```go
 x := 19
 if x > 18 {
