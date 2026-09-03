@@ -4,11 +4,10 @@ title: "Effective golang"
 date: 2026-08-30
 ---
 
+{% raw %}
 ![Golang fuck you](/assets/images/posts/headers/golang_fuck.png)
 
 Bueno, aprendiendo golang, este es mi base de recursos:
-
-...
 
 - [Effective golang](https://go.dev/doc/effective_go)
 - [Common golang errors](https://100go.co/)
@@ -177,4 +176,4 @@ myFunc := func(){}
 ## Referencias
 
 - [Buble](https://github.com/charmbracelet/bubbletea) -> No se que carajos hace
-...
+{% endraw %}
