@@ -5,5 +5,5 @@ date: 2026-08-30
 ---
 
 {% raw %}
-![Docker fuck you](/assets/images/posts/headers/react_fuck.png)
+![React fuck you](/assets/images/posts/headers/react_fuck.png)
 {% endraw %}

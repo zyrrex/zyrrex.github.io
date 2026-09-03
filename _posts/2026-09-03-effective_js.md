@@ -6,5 +6,5 @@ last_modified_at: 2026-09-03
 ---
 
 {% raw %}
-![Golang fuck you](/assets/images/posts/headers/js_fuck.png)
+![JavaScript fuck you](/assets/images/posts/headers/js_fuck.png)
 {% endraw %}
