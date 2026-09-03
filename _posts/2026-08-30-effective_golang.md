@@ -78,6 +78,11 @@ if x > 18 {
 ```
 
 ```go
+x := "March"
+switch x {
+   case "March": fmt.Println("Halo")
+   default: fmt.Println("Test")
+}
 ```
 
 ## Bucles
@@ -86,10 +91,96 @@ if x > 18 {
 for i := 0; i < 10; i++ {
    fmt.Print(i)
 }
+
+for index, elem := range listado {
+   fmt.Println(elem)
+}
 ```
 
 ```go
 ```
+
+## Arreglos
+
+```go
+var arr1 [10]int
+arr1[2] = 12
+
+arr2 := [2][2]int{{12, 16}, {1, 2}}
+```
+
+### Métodos
+
+## Slices
+
+```go
+```
+
+### Métodos
+
+## Maps
+
+```go
+objUser := map[string]int{
+   "name": "Carlos", "age": "24"
+}
+```
+
+### Métodos
+
+## Functions
+
+```go
+func sayhello(string mensaje) {
+   fmt.Println(mensaje)
+}
+
+// función con valor de retorno
+func buildMessage(string mensaje) string {
+   return mensaje
+}
+
+// Función con más de un valor de retorno 
+func buildMessage2(string mensaje) (string, int) {
+   return mensaje, len(mensaje)
+}
+
+// Función con nro de parámetros desconocido
+func allinone(arg...int){
+}
+
+// Función como valor
+myFunc := func(){}
+```
+
+### Manejo avanzado
+
+- defer
+- callbacks
+
+## Packages
+
+```go
+```
+
+```go
+```
+
+```go
+```
+
+```go
+```
+
+```go
+```
+
+## Conocimientos logicos
+
+- Scope
+   - Local
+   - Global
+- Pánico(page 35)
 
 ## Products| Practice
 
