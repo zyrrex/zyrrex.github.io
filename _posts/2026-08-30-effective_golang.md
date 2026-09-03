@@ -2,6 +2,7 @@
 layout: post
 title: "Effective golang"
 date: 2026-08-30
+last_modified_at: 2026-09-03
 ---
 
 {% raw %}
