@@ -8,6 +8,8 @@ date: 2026-08-30
 
 Bueno, aprendiendo golang, este es mi base de recursos:
 
+...
+
 - [Effective golang](https://go.dev/doc/effective_go)
 - [Common golang errors](https://100go.co/)
 - [Golang tests](https://quii.gitbook.io/learn-go-with-tests)
@@ -175,3 +177,4 @@ myFunc := func(){}
 ## Referencias
 
 - [Buble](https://github.com/charmbracelet/bubbletea) -> No se que carajos hace
+...
