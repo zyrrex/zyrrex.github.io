@@ -97,9 +97,6 @@ for index, elem := range listado {
 }
 ```
 
-```go
-```
-
 ## Arreglos
 
 ```go
@@ -112,9 +109,6 @@ arr2 := [2][2]int{{12, 16}, {1, 2}}
 ### Métodos
 
 ## Slices
-
-```go
-```
 
 ### Métodos
 
@@ -140,7 +134,7 @@ func buildMessage(string mensaje) string {
    return mensaje
 }
 
-// Función con más de un valor de retorno 
+// Función con más de un valor de retorno
 func buildMessage2(string mensaje) (string, int) {
    return mensaje, len(mensaje)
 }
@@ -159,21 +153,6 @@ myFunc := func(){}
 - callbacks
 
 ## Packages
-
-```go
-```
-
-```go
-```
-
-```go
-```
-
-```go
-```
-
-```go
-```
 
 ## Conocimientos logicos
 
