@@ -17,6 +17,8 @@ Bueno, aprendiendo golang, este es mi base de recursos:
 
 ## Indice
 
+---
+
 ## Fundamentos
 
 ```go
@@ -68,6 +70,8 @@ const (
 - Relacionales: (`&&`, `||`)
 - Lógicos:
 
+---
+
 ## Sentencias de control
 
 ```go
@@ -87,6 +91,8 @@ switch x {
 }
 ```
 
+---
+
 ## Bucles
 
 ```go
@@ -99,6 +105,8 @@ for index, elem := range listado {
 }
 ```
 
+---
+
 ## Arreglos
 
 ```go
@@ -110,9 +118,13 @@ arr2 := [2][2]int{{12, 16}, {1, 2}}
 
 ### Métodos
 
+---
+
 ## Slices
 
 ### Métodos
+
+---
 
 ## Maps
 
@@ -123,6 +135,8 @@ objUser := map[string]int{
 ```
 
 ### Métodos
+
+---
 
 ## Functions
 
@@ -154,6 +168,8 @@ myFunc := func(){}
 - defer
 - callbacks
 
+---
+
 ## Packages
 
 Conjunto de funciones y de informacion
@@ -178,6 +194,8 @@ Conjunto de funciones y de informacion
 - reflect
 - os/exec
 
+---
+
 ## Comandos de golang
 
 ```bash
@@ -185,6 +203,9 @@ go build
 go install
 go test
 ```
+
+---
+
 ## Mas avanzado
 
 ### Structs
@@ -205,7 +226,7 @@ go test
 
 ### Concurrencia
 
-### 
+---
 
 ## Conocimientos logicos
 
@@ -214,16 +235,22 @@ go test
    - Global
 - Pánico(page 35)
 
+---
+
 ## Products| Practice
 
 - CLI tools (Go blueprint, React AWS Go)
 - GRPC
 - Pipeline jobs/ scripts
 
+---
+
 ## User interface
 
 - [Fyne](https://fyne.io/)
 - [Wails](https://wails.io/)
+
+---
 
 ## Referencias
 
