@@ -156,6 +156,57 @@ myFunc := func(){}
 
 ## Packages
 
+Conjunto de funciones y de informacion
+
+```go
+```
+
+### Packages de referencia
+
+- fmt
+- io
+- bufio
+- sort
+- strconv
+- os
+- sync
+- flag
+- encoding/json
+- html/template
+- net/http
+- unsafe
+- reflect
+- os/exec
+
+## Comandos de golang
+
+```bash
+go build
+go install
+go test
+```
+## Mas avanzado
+
+### Structs
+
+### Pointers
+
+### Allocation
+
+### Types
+
+### Conversions
+
+### Interfaces
+
+### Methods
+
+### Paralelismo
+
+### Concurrencia
+
+### 
+
 ## Conocimientos logicos
 
 - Scope
