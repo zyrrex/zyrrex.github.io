@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective docker"
+title: "Effective Architecture"
 date: 2026-09-13
 last_modified_at: 2026-09-13
 ---
