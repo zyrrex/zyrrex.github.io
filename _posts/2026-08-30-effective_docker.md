@@ -6,5 +6,9 @@ last_modified_at: 2026-09-02
 ---
 
 {% raw %}
+
 ![Docker fuck you](/assets/images/posts/headers/docker_fuck.png)
+
+_Última actualización: {{ page.last_modified_at }}_
+
 {% endraw %}

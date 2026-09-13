@@ -6,6 +6,7 @@ last_modified_at: 2026-09-03
 ---
 
 {% raw %}
+
 ![Golang fuck you](/assets/images/posts/headers/golang_fuck.png)
 
 Bueno, aprendiendo golang, este es mi base de recursos:
@@ -255,4 +256,7 @@ go test
 ## Referencias
 
 - [Buble](https://github.com/charmbracelet/bubbletea) -> No se que carajos hace
+
+_Última actualización: {{ page.last_modified_at }}_
+
 {% endraw %}
